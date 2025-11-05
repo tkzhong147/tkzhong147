@@ -1,7 +1,7 @@
 # Intro
 Student Developer with experience in Full stack development
 
-### Recently programmed in 
+### Programming Languages
 - C#
 - C++
 - Javascript
