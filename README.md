@@ -1,5 +1,4 @@
-# Intro
-Student Developer with experience in Full stack development
+# Introduction
 
 ### Programming Languages
 - C#
