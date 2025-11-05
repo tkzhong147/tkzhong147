@@ -1,13 +1,13 @@
-# O7 Ello
-Student Developer at the RUAS
+# Intro
+Student Developer with experience in Full stack development
 
-# Programmed in
+## Programming Languages I've used
 - C#
 - C++
 - Javascript
 - Python
 
-# Programming related interests
+### Programming related interests
 - Gamedev
 - FullStack webdev
 
