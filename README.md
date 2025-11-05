@@ -1,4 +1,15 @@
-## Hi there 👋
+# O7 Ello
+Student Developer at the RUAS
+
+# Programmed in
+- C#
+- C++
+- Javascript
+- Python
+
+# Programming related interests
+- Gamedev
+- FullStack webdev
 
 <!--
 **tkzhong147/tkzhong147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
