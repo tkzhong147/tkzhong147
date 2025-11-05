@@ -6,9 +6,10 @@
 - Javascript
 - Python
 
-### Programming related interests
+### Interests
 - Gamedev
-- FullStack webdev
+- Full-Stack WebDev
+
 
 <!--
 **tkzhong147/tkzhong147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
