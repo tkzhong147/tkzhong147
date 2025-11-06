@@ -1,6 +1,6 @@
 # About me
 
-### Programming languages I've used
+### Programming languages I have used recently
 - C#
 - C++
 - Javascript
