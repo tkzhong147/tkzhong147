@@ -1,10 +1,11 @@
-# Introduction
+# About me
 
-### Programming Languages
+### Programming languages I've used
 - C#
 - C++
 - Javascript
 - Python
+- Go
 
 ### Interests
 - Gamedev
