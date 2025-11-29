@@ -7,6 +7,12 @@
 - Python
 - Go
 
+### Frameworks/etc
+- Ruby On Rails
+- Vue
+- Docker
+- Unity
+
 ### Interests
 - Gamedev
 - Full-Stack WebDev
