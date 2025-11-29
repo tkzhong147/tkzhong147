@@ -1,7 +1,7 @@
 # About me
 
 ### Programming Languages I've used
-**C#**  | **Go**  | **Java** | **Ruby** | **Javascript** | **Python** |
+**C#**  | **Python** | **Javascript** | **Go** | **Ruby** | **Java** |
 **C**   | **C++**  
 
 ### Frameworks/etc
