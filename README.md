@@ -1,17 +1,11 @@
 # About me
 
-### Recently Used Programming Languages
-- C#
-- C++
-- Javascript
-- Python
-- Go
+### I've Programming Languages used
+C#  | Go  | Java | Ruby | Javascript | Python
+C   | C++   
 
 ### Frameworks/etc
-- Ruby On Rails
-- Vue
-- Docker
-- Unity
+**Ruby On Rails** | **Vue** | **Docker** | **Unity**
 
 ### Interests
 - Gamedev
