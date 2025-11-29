@@ -1,8 +1,8 @@
 # About me
 
 ### Programming Languages I've used
-C#  | Go  | Java | Ruby | Javascript | Python |
-C   | C++   
+**C#  | Go  | Java | Ruby | Javascript | Python |
+C   | C++   **
 
 ### Frameworks/etc
 **Ruby On Rails** | **Vue** | **Docker** | **Unity**
