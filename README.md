@@ -11,6 +11,11 @@
 - Gamedev
 - Full-Stack WebDev
 
+### Games I've enjoyed recently
+- Expedition 33
+- Monster Hunter Wilds
+- 2xko
+
 
 <!--
 **tkzhong147/tkzhong147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
